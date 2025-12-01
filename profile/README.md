@@ -90,8 +90,15 @@
 ### 👤 마이페이지
 <table>
   <tr>
+    <td align="center"><p>웹</p></td>
+    <td align="center"><p>앱</p></td>
+  </tr>
+  <tr>
     <td align="center">
       <img src="https://github.com/user-attachments/assets/d981c1ae-0ec4-4f2d-9b20-f22266dd2bab" width="600"/>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/2de27293-c022-4026-b1c4-8a7d040bff46" width="150"/>
     </td>
   </tr>
 </table>
@@ -101,15 +108,6 @@
   <tr>
     <td align="center">
       <img src="https://github.com/user-attachments/assets/ab681208-b186-4132-95e1-41c1f485ec58" width="600"/>
-    </td>
-  </tr>
-</table>
-
-### 👤 (앱) 마이페이지
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://github.com/user-attachments/assets/2de27293-c022-4026-b1c4-8a7d040bff46" width="150"/>
     </td>
   </tr>
 </table>
