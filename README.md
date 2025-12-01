@@ -49,6 +49,70 @@
 
 ## 화면 구성
 
+### 📌 소개 영상
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/1ce837cd-413a-46a3-b9b6-a4c6d16330f6" width="600"/>
+    </td>
+  </tr>
+</table>
+
+### 🌐 트렌드
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/0c1d9471-35cc-49e3-b9f6-9116cc853598" width="600"/>
+    </td>
+  </tr>
+</table>
+
+### 👯 마인드맵 
+<table>
+  <tr>
+    <td align="center"><p>👯 협업</p></td>
+    <td align="center"><p>🪄 정리하기</p></td>
+    <td align="center"><p>🎧 음성채팅</p></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/217c0664-6a3d-4dff-9cd5-83d1d4db439b" width="250"/>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/7bee2c62-477d-4aa4-a5bd-69badafa2b39" width="250"/>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/236f912b-67d5-45c8-a3ff-303f6bfc3bd5" width="250"/>
+    </td>
+  </tr>
+</table>
+
+### 👤 마이페이지
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/d981c1ae-0ec4-4f2d-9b20-f22266dd2bab" width="600"/>
+    </td>
+  </tr>
+</table>
+
+### 🤷 프로필 수정
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/ab681208-b186-4132-95e1-41c1f485ec58" width="600"/>
+    </td>
+  </tr>
+</table>
+
+### 👤 (앱) 마이페이지
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/d981c1ae-0ec4-4f2d-9b20-f22266dd2bab" width="600"/>
+    </td>
+  </tr>
+</table>
 
 ## 시스템 아키텍처
 
