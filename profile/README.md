@@ -109,7 +109,7 @@
 <table>
   <tr>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/d981c1ae-0ec4-4f2d-9b20-f22266dd2bab" width="600"/>
+      <img src="https://github.com/user-attachments/assets/2de27293-c022-4026-b1c4-8a7d040bff46" width="150"/>
     </td>
   </tr>
 </table>
